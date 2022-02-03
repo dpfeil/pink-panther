@@ -2,7 +2,7 @@
 
 The goal of this project is to build a react-based rendering of a video, where each pixel is represented as a react component. 
 
-## This has been done already.
+### This has been done already.
 
 Well I've never seen it, nor do I need to. The outcome of this isn't an something I expect will be useful as a way to actually present a video. The ultimate goal is to experiment with different ways of increasing performance and to be able to see the effects of the performance gains. I want to answer questions like:
 - What resolution can this handle?
